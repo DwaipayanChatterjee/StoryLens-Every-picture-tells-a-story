@@ -24,8 +24,7 @@ Execution is divided into 3 parts:
   OpenAI's text-to-speech (TTS) [OpenAi TTS](https://platform.openai.com/docs/guides/text-to-speech) technology is an artificial intelligence service that converts written text into lifelike, natural-sounding spoken audio using advanced deep learning models. This technology is primarily accessed by developers through the OpenAI Text-to-Speech API. 
 - A user interface is built using streamlit to enable uploading the image and playing the audio file
   
-
-![Demo 3: Football Image Output](img/sample_ouput_1.jpg)
+![Demo 1: Footbal Playing Image Output](img/sample_output_1.jpg)
 You can listen respective audio file of this test image on respective `img-audio` folder 
 
 
