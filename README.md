@@ -12,11 +12,6 @@ You can listen respective audio file of this test demo images on respective `img
 
 You can listen respective audio file of this test demo images on respective `img-audio` folder 
 
-## 📈System Design
-
-![system-design](img/system-design.drawio.png)
-
-
 ## 🏆Approach
 An app that uses Hugging Face AI models to generate text from an image, which then generates audio from the text.
 
@@ -83,6 +78,6 @@ Run the Streamlit app:
 `streamlit run app.py`gi
 
 #### **If you like this LLM Project do drop ⭐ to this repo and Contributions are welcome! If you have any suggestions for improving this AI Img-Speech Converter, please submit a pull request.💁**
-#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwaipayan-chatterjee11/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwaipayanChatterjee/StoryLens-Every-picture-tells-a-story/)
+#### Reachout to me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwaipayan-chatterjee11/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwaipayanChatterjee/StoryLens-Every-picture-tells-a-story/)
 
 ---
