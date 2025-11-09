@@ -74,7 +74,7 @@ Set up your OpenAI API key & Hugging Face Token by creating a .env file in the r
 
 Run the Streamlit app:
 
-`streamlit run app.py`gi
+`streamlit run app.py`
 
 #### **If you like this LLM Project do drop ⭐ to this repo and Contributions are welcome! If you have any suggestions for improving this AI Img-Speech Converter, please submit a pull request.💁**
 #### Reachout to me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwaipayan-chatterjee11/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwaipayanChatterjee/StoryLens-Every-picture-tells-a-story/)
